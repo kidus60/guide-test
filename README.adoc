@@ -10,6 +10,7 @@
 :projectid: sessions
 :page-tags: []
 :page-permalink: /guides/{projectid}
+:page-guide-category: basic
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
 :imagesdir: /img/guide
 :page-seo-title: Caching HTTP session data in microservices
