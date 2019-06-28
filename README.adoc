@@ -13,6 +13,30 @@
 :page-guide-category: basic
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
 :imagesdir: /img/guide
-:page-seo-title: Caching HTTP session data in microservices
-:page-seo-description: Learn how to create and cache session data that persists between servers.
-= Kabanero Guide Test
+:page-seo-title: Test guides
+:page-seo-description: Test guides
+:page-description: Test guides
+= Creating a Node.js Project with Codewind
+
+== What you'll Learn
+
+In this guide, we'll provide an example of quickly creating a Node.js project from scratch using Codewind. 
+
+== Getting Started
+
+This guide assumes that you've already completed the steps of https://microclimate.dev/codewindtechpreview#installing-codewind[this guide to install Codewind and the Eclipse plugin].
+
+== Create a new Node.js Project using Codewind in Eclipse
+With the Codewind and Eclipse plugin installaltions complete, you are only a few clicks away from having a running Node.js application.
+
+1. Open Eclipse to the workspace in which you wish to create the new Node.js project.
+1. Open the Project Exploerer view (Window -> Show View -> Project Explorer) and select "Create a Project".  
+1. In the New Project window, drop down the Codewind folder and select "New Project" then click "Next".
+1. Select a name for your new project, select the "Node.js Express" project template, and click "Finish"
+1. Open the Codewind Explorer view (Window -> Show View -> Other -> Codewind -> Codewind Explorer). Your new project will take some time to build.
+1. Once the build completes and the project is running, right click on the project and select "Open Application" to see your Node.js template running.
+
+The Node.js template includes some basic Express routing. https://expressjs.com/[More info on routing with Express can be found here.]
+
+That's it; your new Node.js project is up and running! Open the Project Explorer view and observe that all of the files necessary to start up the app have been automatically generated.
+
