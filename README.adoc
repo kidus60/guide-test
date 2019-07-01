@@ -7,8 +7,10 @@
 //     IBM Corporation
 //
 :page-layout: guide
-:projectid: sessions
-:page-tags: []
+:page-duration: 5 minutes
+:page-releasedate: 2019-07-01
+:projectid: kabanero-io
+:page-tags: ['Test', 'Kabanero', 'Codewind', 'Node.js']
 :page-permalink: /guides/{projectid}
 :page-guide-category: basic
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
