@@ -6,7 +6,7 @@
 // Contributors:
 //     IBM Corporation
 //
-:page-layout: guide-multipane
+:page-layout: guide
 :projectid: sessions
 :page-tags: []
 :page-permalink: /guides/{projectid}
